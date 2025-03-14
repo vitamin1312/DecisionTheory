@@ -1,7 +1,0 @@
-[core]
-    remote = myremote
-['remote "myremote"']
-    url = s3://vitaminstorage
-    endpointurl = https://storage.yandexcloud.net
-    access_key_id = ${YANDEX_ACCESS_KEY_ID}
-    secret_access_key = ${YANDEX_SECRET_ACCESS_KEY}
