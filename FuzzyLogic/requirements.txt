@@ -3,3 +3,6 @@ numpy
 networkx
 matplotlib
 scikit-fuzzy
+dvc
+dvc[s3]
+git-filter-repo
