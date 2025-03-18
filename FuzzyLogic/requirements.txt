@@ -2,7 +2,11 @@ scipy
 numpy
 networkx
 matplotlib
+pandas
+seaborn
 scikit-fuzzy
+scikit-learn
+imbalanced-learn
 dvc
 dvc[s3]
 git-filter-repo
